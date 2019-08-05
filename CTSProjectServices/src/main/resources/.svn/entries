@@ -1,0 +1,57 @@
+10
+
+dir
+58
+http://win7-pc:92/svn/CTSProjectServices/src/main/resources
+http://win7-pc:92/svn/CTSProjectServices
+
+
+
+2019-06-11T09:00:21.391203Z
+57
+seetanshu
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+8a9c4997-9293-cd4d-858b-49fb9ccfb31d
+
+application.properties
+file
+68
+
+
+
+
+b8596638bd6c1c176dc8e667e13a244e
+2019-06-14T07:38:56.992598Z
+68
+seetanshu
+
+
+
+
+
+application.properties.r58
+application.properties.r68
+application.properties.mine
+
+static
+dir
+
+templates
+dir
+
+uploads
+dir
+

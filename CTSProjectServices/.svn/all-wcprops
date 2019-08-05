@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/CTSProjectServices/!svn/ver/17/
+END
+mvnw
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/CTSProjectServices/!svn/ver/2/mvnw
+END
+HELP.md
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/CTSProjectServices/!svn/ver/2/HELP.md
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/CTSProjectServices/!svn/ver/2/.gitignore
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CTSProjectServices/!svn/ver/68/pom.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CTSProjectServices/!svn/ver/2/.project
+END
+mvnw.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/CTSProjectServices/!svn/ver/2/mvnw.cmd
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/CTSProjectServices/!svn/ver/2/.classpath
+END

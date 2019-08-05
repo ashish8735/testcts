@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/CTSProjectServices/!svn/ver/70/src/main/java/com/CTS/Project/ServiceImpls
+END
+TranReminderLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/69/src/main/java/com/CTS/Project/ServiceImpls/TranReminderLogServiceImpl.java
+END
+MstResourceZoneServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/ServiceImpls/MstResourceZoneServiceImpl.java
+END
+MyDashboardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CTSProjectServices/!svn/ver/72/src/main/java/com/CTS/Project/ServiceImpls/MyDashboardServiceImpl.java
+END
+MstDesignationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstDesignationServiceImpl.java
+END
+AgeingCountServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/ServiceImpls/AgeingCountServiceImpl.java
+END
+MstStageServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstStageServiceImpl.java
+END
+MstGroupServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTSProjectServices/!svn/ver/14/src/main/java/com/CTS/Project/ServiceImpls/MstGroupServiceImpl.java
+END
+MstPriorityServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstPriorityServiceImpl.java
+END
+DashboardServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTSProjectServices/!svn/ver/65/src/main/java/com/CTS/Project/ServiceImpls/DashboardServiceImpl.java
+END
+MstResourceTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstResourceTypeServiceImpl.java
+END
+ResourceRoleMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/56/src/main/java/com/CTS/Project/ServiceImpls/ResourceRoleMapServiceImpl.java
+END
+TranHistoryDetailsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/ServiceImpls/TranHistoryDetailsServiceImpl.java
+END
+MappingIncidentCatagoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MappingIncidentCatagoryServiceImpl.java
+END
+MstIncidentTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/16/src/main/java/com/CTS/Project/ServiceImpls/MstIncidentTypeServiceImpl.java
+END
+MstAppicationRoleMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/CTSProjectServices/!svn/ver/56/src/main/java/com/CTS/Project/ServiceImpls/MstAppicationRoleMapServiceImpl.java
+END
+RoleStageMapImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTSProjectServices/!svn/ver/32/src/main/java/com/CTS/Project/ServiceImpls/RoleStageMapImpl.java
+END
+MstApplicationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstApplicationServiceImpl.java
+END
+MstStateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/ServiceImpls/MstStateServiceImpl.java
+END
+MstRoleServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstRoleServiceImpl.java
+END
+ApplicationPriorityMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/CTSProjectServices/!svn/ver/18/src/main/java/com/CTS/Project/ServiceImpls/ApplicationPriorityMapServiceImpl.java
+END
+TranAddIncidentServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/74/src/main/java/com/CTS/Project/ServiceImpls/TranAddIncidentServiceImpl.java
+END
+LoginServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/LoginServiceImpl.java
+END
+MstHolidayServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/MstHolidayServiceImpl.java
+END
+MapApplicationStageImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTSProjectServices/!svn/ver/32/src/main/java/com/CTS/Project/ServiceImpls/MapApplicationStageImpl.java
+END
+ChangePasswordServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTSProjectServices/!svn/ver/70/src/main/java/com/CTS/Project/ServiceImpls/ChangePasswordServiceImpl.java
+END
+IncidentCategoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/IncidentCategoryServiceImpl.java
+END
+MstIncidentStateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/ServiceImpls/MstIncidentStateServiceImpl.java
+END
+LocStateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/ServiceImpls/LocStateServiceImpl.java
+END
+MstResourcePoolServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/CTSProjectServices/!svn/ver/38/src/main/java/com/CTS/Project/ServiceImpls/MstResourcePoolServiceImpl.java
+END
+MstIncidentSubTypeServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/CTSProjectServices/!svn/ver/32/src/main/java/com/CTS/Project/ServiceImpls/MstIncidentSubTypeServiceImpl.java
+END
+ApplicationTimingServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/ServiceImpls/ApplicationTimingServiceImpl.java
+END
+MstAreaServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/38/src/main/java/com/CTS/Project/ServiceImpls/MstAreaServiceImpl.java
+END
+ApplicationStageAdminMapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/CTSProjectServices/!svn/ver/38/src/main/java/com/CTS/Project/ServiceImpls/ApplicationStageAdminMapServiceImpl.java
+END

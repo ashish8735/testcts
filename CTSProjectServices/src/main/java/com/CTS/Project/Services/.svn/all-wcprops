@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/CTSProjectServices/!svn/ver/70/src/main/java/com/CTS/Project/Services
+END
+TranReminderLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/69/src/main/java/com/CTS/Project/Services/TranReminderLogService.java
+END
+MstResourceZoneService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/Services/MstResourceZoneService.java
+END
+MyDashboardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/Services/MyDashboardService.java
+END
+MapApplicationStageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/CTSProjectServices/!svn/ver/16/src/main/java/com/CTS/Project/Services/MapApplicationStageService.java
+END
+AgeingCountService.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/Services/AgeingCountService.java
+END
+MstStageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstStageService.java
+END
+MstGroupService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTSProjectServices/!svn/ver/15/src/main/java/com/CTS/Project/Services/MstGroupService.java
+END
+MstPriorityService.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstPriorityService.java
+END
+RoleStageMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/CTSProjectServices/!svn/ver/15/src/main/java/com/CTS/Project/Services/RoleStageMapService.java
+END
+DashboardService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTSProjectServices/!svn/ver/63/src/main/java/com/CTS/Project/Services/DashboardService.java
+END
+AppUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTSProjectServices/!svn/ver/24/src/main/java/com/CTS/Project/Services/AppUserDetailsService.java
+END
+MstResourceTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstResourceTypeService.java
+END
+ResourceRoleMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/56/src/main/java/com/CTS/Project/Services/ResourceRoleMapService.java
+END
+TranHistoryDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/Services/TranHistoryDetailsService.java
+END
+MstIncidentTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/16/src/main/java/com/CTS/Project/Services/MstIncidentTypeService.java
+END
+MstResourceDesignationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstResourceDesignationService.java
+END
+MstAppicationRoleMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/CTSProjectServices/!svn/ver/56/src/main/java/com/CTS/Project/Services/MstAppicationRoleMapService.java
+END
+MappingIncidentCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MappingIncidentCategoryService.java
+END
+MstApplicationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstApplicationService.java
+END
+MstStateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/Services/MstStateService.java
+END
+MstRoleService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstRoleService.java
+END
+ApplicationPriorityMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/CTSProjectServices/!svn/ver/15/src/main/java/com/CTS/Project/Services/ApplicationPriorityMapService.java
+END
+TranAddIncidentService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/35/src/main/java/com/CTS/Project/Services/TranAddIncidentService.java
+END
+LoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/LoginService.java
+END
+MstHolidayService.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/MstHolidayService.java
+END
+ChangePasswordService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/CTSProjectServices/!svn/ver/70/src/main/java/com/CTS/Project/Services/ChangePasswordService.java
+END
+IncidentCategoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/IncidentCategoryService.java
+END
+MstIncidentStateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTSProjectServices/!svn/ver/73/src/main/java/com/CTS/Project/Services/MstIncidentStateService.java
+END
+LocStateService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/Services/LocStateService.java
+END
+MstResourcePoolService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/CTSProjectServices/!svn/ver/33/src/main/java/com/CTS/Project/Services/MstResourcePoolService.java
+END
+MstIncidentSubTypeService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/CTSProjectServices/!svn/ver/33/src/main/java/com/CTS/Project/Services/MstIncidentSubTypeService.java
+END
+ApplicationTimingService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/CTSProjectServices/!svn/ver/2/src/main/java/com/CTS/Project/Services/ApplicationTimingService.java
+END
+MstAreaService.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/CTSProjectServices/!svn/ver/37/src/main/java/com/CTS/Project/Services/MstAreaService.java
+END
+ApplicationStageAdminMapService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/CTSProjectServices/!svn/ver/38/src/main/java/com/CTS/Project/Services/ApplicationStageAdminMapService.java
+END
